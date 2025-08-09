@@ -1,1 +1,1 @@
-# Language-Translator
+# Number Guessing Game
