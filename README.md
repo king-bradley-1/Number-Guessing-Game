@@ -5,7 +5,7 @@ A simple Python console game where you try to guess a randomly generated number.
 ## How to Play
 
 1. Run the script:  
-   `python 01_number_guessing_game.py`
+   `python main.py`
 
 2. Choose a difficulty level:
    - **Easy**: 10 lives (`e`)
